@@ -1,0 +1,21 @@
+{
+    "id": 161008715,
+    "name": "Power Vs Force - Trường Năng Lượng Và Những Nhân Tố Quyết Định Hành Vi Của Con Người (Tái Bản)",
+    
+    "type": "simple",
+    "price": 127000,
+    "list_price": 179000,
+    "original_price": 179000,
+    "discount": 52000,
+    "discount_rate": 29,
+    "rating_average": 5,
+    "review_count": 432,
+    "favourite_count": 0,
+    "all_time_quantity_sold": 4501,
+
+    "categories": {
+      "id": 9733,
+      "name": "Kiến Thức Bách Khoa",
+      "is_leaf": true
+    }
+  }
